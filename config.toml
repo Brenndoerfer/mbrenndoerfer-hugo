@@ -1,22 +1,21 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Michael Brenndoerfer"
 
 theme = "hugo-steam-theme"
-disqusShortname = "spf13"
+disqusShortname = "michael-brenndoerfer"
 # Enable Google Analytics be inserting your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-96478221-1"
 # Number of posts per page
 paginate = 10
 
 [params]
-	title = "Steam"
-	subtitle = "a minimal theme for ~~Ghost~~ Hugo"
-	copyright = "Released under the MIT license."
-
+	title = "Michael Brenndoerfer"
+	subtitle = "Machine Learning, Deep Learning, Statistics, Distributed Systems, Big Data & Finance"
+	copyright = ""
 	# You can choose between green, orange, red and blue.
-	themecolor = "green"
-
+	themecolor = "custom"
+	
 	# Link custom assets relative to /static
 	favicon   = "favicon.ico"
 	customCSS = []
@@ -24,23 +23,23 @@ paginate = 10
 
 	# To provide some metadata for search engines and the about section in the footer
 	# feel free to add a few information about you and your website.
-	name = "John Doe"
-	bio = "programmer - blogger - coffee aficionado"
+	name = "Michael Brenndoerfer"
+	bio = "programmer - data guy - runs on coffee"
 	description = "Your description of the blog"
 	
 	# Link your social networks (optional)
-	location = ""
-	twitter = "spf13"
-	linkedin = ""
+	location = "Camebridge, MA"
+	twitter = "mbrenndoerfer"
+	linkedin = "michaelbrenndoerfer"
 	googleplus = ""
-	facebook = ""
-	instagram = ""
-	github = "spf13"
+	facebook = "michael.brenndoerfer"
+	instagram = "leanlive"
+	github = "brenndoerfer"
 	gitlab = ""
 	bitbucket = ""
 
 	# Customize or translate the strings
-	keepReadingStr = "Keep reading"
+	keepReadingStr = "Continue reading"
 	backtotopStr = "Back to top"
 	shareStr = "Share"
 	pageNotFoundTitle = "404 - Page not found"
