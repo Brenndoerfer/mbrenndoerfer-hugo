@@ -1,0 +1,7 @@
+<footer class="site-footer">
+	<div class="inner">
+		{{ partial "social.html" . }}
+		{{ partial "mathjax_support.html" . }}
+		<section class="copyright">&copy; {{now.Format "2006"}} <a href="{{ .Site.BaseURL }}">{{ .Site.Params.name }}</a> {{ .Site.Params.copyright | markdownify }}</section>
+	</div>
+</footer>
