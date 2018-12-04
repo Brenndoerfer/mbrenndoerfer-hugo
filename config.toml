@@ -11,7 +11,7 @@ paginate = 10
 
 [params]
 	title = "Michael Brenndoerfer"
-	subtitle = "Machine Learning, Deep Learning, Statistics, Distributed Systems, Big Data & Finance"
+	subtitle = "Machine and Deep Learning, Data Science and Visualization, Distributed Systems, Big Data & Finance - Just the good stuff"
 	copyright = ""
 	# You can choose between green, orange, red and blue.
 	themecolor = "custom"
@@ -43,3 +43,6 @@ paginate = 10
 	backtotopStr = "Back to top"
 	shareStr = "Share"
 	pageNotFoundTitle = "404 - Page not found"
+[taxonomies]
+   tag = "tags"
+   category = "categories"
